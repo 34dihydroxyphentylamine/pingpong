@@ -3,8 +3,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "v3": "*",
-        "funk": "*"
+        "v3": "*"
     },
     "files": [
         "main.blocks",
